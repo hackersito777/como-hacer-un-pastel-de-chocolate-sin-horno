@@ -3,13 +3,17 @@ body {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 20px;
     
+   
+      
+
+
 
 }
 
 .container {
-    width: 100vw;
+    width: auto;
+    height: auto;
     
-    overflow: hidden;
     display: grid;
     text-align: center;
     align-items: center;
